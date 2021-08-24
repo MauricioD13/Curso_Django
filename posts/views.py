@@ -2,7 +2,7 @@
 """
 # Django
 from django.shortcuts import render
-
+from django.http import HttpResponse
 #Utilities
 from datetime import datetime
 import json
